@@ -1,0 +1,23 @@
+1st question
+sir, could you please recheck- I gave use of cia triad and also explained the principles of cia triad.
+
+3rd question:
+sir, please recheck as per the question I gave the algorithm of the Caesar cipher technique and also performed encryption and decryption.
+
+6th question:
+sir, please recheck as I explained the algorithm, wrote formulas, performed encryption and decryption, and proved the output after every step.
+
+12th question
+sir, could you please recheck as I wrote both ECB and CBC definitions principles and also explained them using the(diagrams). And also I wrote the disadvantages of both processes.
+
+mis-2:
+CACD
+3-sir could you please check Explained clearly about the Elgamel algorithm along with encryption, decryption, and also the key generation process.
+5-sir could you please check  I explained step step-by-step process of the RSA algorithm with given values and also explain about security techniques of RSA.
+11-sir could you please check the completely explained NIST and its 4 stages of the life cycle it step-wise process.
+10-sir could you please check I explained about Big and small endian concepts and also differentiated them using an example.
+
+NIS
+10-Sir could you please check I explained both Internal & external firewall uses and their differences.
+4-Mam could you please recheck I explained the parameters for the SSL session state along with SSL architecture.
+11-Sir could you please check I clearly explained ESP along the architecture diagram and also the difference between the top-level format and payload data of an ESP packet
